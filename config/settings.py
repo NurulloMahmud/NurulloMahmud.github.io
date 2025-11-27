@@ -10,7 +10,7 @@ DATA3_DIR = BASE_DIR / "data" / "DATA3"
 EUR_TO_USD = 1.2
 
 # data folders to process
-DATA_FOLDERS = ['DATA1', 'DATA2', 'DATA3']
+DATA_FOLDERS = [DATA1_DIR, DATA2_DIR, DATA3_DIR]
 
 # output paths
 OUTPUT_DIR = 'output'
