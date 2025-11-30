@@ -4,7 +4,7 @@ A complete ETL (Extract, Transform, Load) pipeline for analyzing bookstore sales
 
 ##   Live Dashboard
 
-**[View the Dashboard](https://NurulloMahmud.github.io/task4/dashboard/)**
+**[View the Dashboard](https://NurulloMahmud.github.io/NurulloMahmud.github.io/dashboard/)**
 
 ---
 
